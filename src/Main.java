@@ -1,5 +1,5 @@
 //  Jocelin Martinez-Reyes
-//  1/16/25 Exercise01
+//  1/16/25 Exercise 1
 //  Q1: When computing the average high temperature, was the value stored as an integer value or a floating-point value?
 // ANSWER: I stored it as a floating-point value
 //  Q2: What happens to the computed average with either data type?
